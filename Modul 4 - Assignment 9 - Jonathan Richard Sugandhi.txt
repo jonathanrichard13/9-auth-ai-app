@@ -1,0 +1,9 @@
+Langkah yang dilakukan dalam membuat aplikasi:
+1. Membuat prd.md untuk terlebih dahulu mendefinisikan requirement aplikasi
+2. Melakukan pengecekkan prd.md, melakukan koreksi, dan menambahkan detail yang didefinisikan seperti db yang digunakan dan tech stack
+3. Melakukan pembuatan aplikasi backend
+4. Melakukan debugging aplikasi backend dan mengecek menggunakan swagger
+5. Membuat aplikasi frontend
+6. Melakukan debugging
+7. Melakukan testing aplikasi
+8. Membuat dokumentasi
